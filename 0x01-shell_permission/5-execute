@@ -1,0 +1,6 @@
+#!/bin/bash
+
+ls -l
+chmod 764 hello
+ls -l
+
