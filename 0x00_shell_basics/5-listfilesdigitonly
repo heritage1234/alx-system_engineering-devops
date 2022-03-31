@@ -1,8 +1,0 @@
-drwxr-xr-x 2 root root 122 Mar 30 04:26 .
-drwxr-xr-x 4 root root 43 Mar 30 03:38 ..
--rw-r--r-- 1 root root 28 Mar 36 03:44 0-current_working_directory
--rw-r--r-- 1 root root 28 Mar 30 04:09 1-listit
--rw-r--r-- 1 root root 5 Mar 30 04:09 2-bring_me_home
--rw-r--r-- 1 root root 213 Mar 30 04:33 3-listfiles
--rw-r--r-- 1 root root 359 Mar 30 04:33 4-listmorefiles
--rw-r--r-- 1 root root 361 Mar 30 05:03 5-listfilesdigitonly
