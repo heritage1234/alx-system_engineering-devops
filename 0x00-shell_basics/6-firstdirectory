@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir tmp/
+cd tmp/
+mkdir tmp/my_first_directory
