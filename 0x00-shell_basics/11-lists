@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ls -lah
+cd ..
+ls -lah 
+cd ..
+ls -lah boot
