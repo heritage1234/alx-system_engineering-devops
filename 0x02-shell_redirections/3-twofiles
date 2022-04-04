@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /
+cd etc
+cat passwd
+cat hosts

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /
+cd etc
+tail -n 10 passwd
