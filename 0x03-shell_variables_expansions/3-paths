@@ -1,5 +1,2 @@
 #!/bin/bash
-
-sm=$(echo $PATH | grep -o ":/" | wc -l)
-
-echo $(( sm + 1 ))
+echo $PATH | tr -s ':' '\n' | wc -l
