@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sm=$(echo $PATH | grep -o ":/" | wc -l)
+
+echo $(( sm + 1 ))
