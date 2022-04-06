@@ -1,6 +1,0 @@
-#!/bin/bash
-
-
-cd /
-cd etc
-head -n 10 passwd
